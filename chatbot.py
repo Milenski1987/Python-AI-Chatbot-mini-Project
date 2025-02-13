@@ -53,7 +53,7 @@ def chatbot():
     print("🤖 Chatbot: " + greet_user() + name)
     print("🤖 Chatbot: I am quotes Chatbot")
     print("🤖 Chatbot: What type of quotes you want to receive?")
-    print("🤖 Chatbot: love , friendship, motivational (type 'bye to exit")
+    print("🤖 Chatbot: ❤️love , 🤝friendship, 🎯motivational (type 'bye to exit")
 
     while True:
         user_input = input("You: ")
