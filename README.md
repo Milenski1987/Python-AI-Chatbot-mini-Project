@@ -12,7 +12,7 @@
  In the next version more themes will be added.
 
 
-123
+
 ---
 ## Technology stack:
 <p align="left">
